@@ -5,7 +5,7 @@ Handled missing/null values to ensure data quality.
 Encoded categorical variables using techniques like one-hot encoding or label encoding.
 Scaled numerical features to normalize values for better model performance.
 Model Building:
-Applied supervised learning algorithms such as Logistic Regression, Random Forest, and XGBoost for churn classification.
+Applied supervised learning algorithms such as XGBoost for churn classification.
 Model Evaluation:
 Evaluated models using metrics like accuracy, precision, recall, F1-score, AUC, and confusion matrix to ensure robust performance.
 Output Generation:
